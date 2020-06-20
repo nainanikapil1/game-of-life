@@ -7,10 +7,6 @@
     "build": "webpack",
     "start": "webpack-dev-server"
   },
-  "engines": {
-    "node": "8.x",
-    "npm": "6.x"
-  },
   "devDependencies": {
     "autoprefixer": "^6.3.6",
     "babel-core": "^6.7.6",
